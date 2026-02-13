@@ -1,2 +1,3 @@
-Bootstrap
-# https://alexeydarkness.github.io/habit-tracker-landing/
+# Анализ вредных привычек
+
+## Использованный фреймворк CSS - Bootstrap
